@@ -1,6 +1,6 @@
 # 🌐 Nithiyanantham K — Personal Portfolio
 
-![Portfolio Banner](imgs/myimg1.jpeg)
+![Portfolio Banner]
 
 > A sleek, dark-themed personal portfolio website built with pure **HTML**, **CSS**, and **JavaScript** — showcasing my skills, projects, and experience as a Web Developer & Data Analyst.
 
