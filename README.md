@@ -65,29 +65,6 @@ git clone https://github.com/YOUR_USERNAME/portfolio.git
 cd portfolio
 ```
 
-### 2. Add your assets
-Place your profile photo at:
-```
-imgs/myimg1.jpeg
-```
-Place your CV at:
-```
-NITHIYANANTHAM_K_CV.pdf
-```
-
-### 3. Open in browser
-```bash
-# Option A — just double-click the file
-open portfolio-project.html
-
-# Option B — use VS Code Live Server (recommended)
-# Right-click portfolio-project.html → "Open with Live Server"
-```
-
-> ✅ No build step, no npm install — it just works!
-
----
-
 ## ☁️ Deployment
 
 ### 🐙 Deploy to GitHub Pages
