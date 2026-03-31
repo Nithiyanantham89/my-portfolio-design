@@ -686,7 +686,7 @@ body {
     border-bottom: 1px solid var(--border);
     gap: 1rem;
   }
-  .text-role{
+  .hero-role{
      display: none;
   }
   .nav-links.open { display: flex; }
