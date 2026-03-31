@@ -686,10 +686,6 @@ body {
     border-bottom: 1px solid var(--border);
     gap: 1rem;
   }
-  .hero-role{
-     display: none;
-  }
-   
   .nav-links.open { display: flex; }
 
   .menu-toggle { display: block; }
@@ -701,6 +697,12 @@ body {
 
   .about-stats {
     grid-template-columns: repeat(3, 1fr);
+  }
+   .tag-cloud{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    align-items: center;
   }
 
   .skills-grid,
