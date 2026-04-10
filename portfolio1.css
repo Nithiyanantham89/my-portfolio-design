@@ -660,6 +660,9 @@ body {
     width: 380px;
     height: 380px;
   }
+   .hero-role{
+      display: none;
+   }
 
   .about-inner {
     flex-direction: column;
