@@ -699,7 +699,7 @@ body {
     height: 300px;
   }
   .hero-role{
-     animation: none;
+     display: none;
   }
 
   .about-stats {
